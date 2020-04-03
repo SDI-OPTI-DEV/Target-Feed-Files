@@ -1,0 +1,8 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.thumbnailUrl2,entity.thumbnailUrl3,entity.margin,entity.backorderrisk,entity.orderdecile,entity.privatefleet,entity.countoforders,entity.strategicboost,entity.approval,entity.livinggreen,entity.registryBrand,entity.shippedfromfactory,entity.producttype,entity.collectionname,entity.collectioncode,entity.brandcode,entity.style,entity.variantplpname,entity.size
+6753MAP185,"Finish Pad, Registry, MicroFiber, Foam Core, 5"""" x 18"""", Blue and White Stipe",,5X18 Blue And White Stipe Micro Fiber Finish Pad. Foam Core. Comes With Resealable Storage Bag. Order In Multiples Of 12,,,,5,1,3,1,,0,approved,0,1,0,Wet Mops,,,BR00881,,,
