@@ -1,0 +1,13 @@
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
+duplicate1,First Copy,,First Copy,,1,,1,1,First Copy,,,,,,,,,,
+duplicate2,First Copy,,First Copy,,1,,1,1,First Copy,,,,,,,,,,
+duplicate3,First Copy,,First Copy,,1,,1,1,First Copy,,,,,,,,,,
+duplicate1,Second Copy,,,,2,,,,,,,,,,,,,,
+duplicate2,Second Copy,,,,2,,,,,,,,,,,,,,
+duplicate3,Second Copy,,,,2,,,,,,,,,,,,,,
+duplicate1,Third Copy,,,,,,,,Third Copy,3,,,,,,,,,
+duplicate2,Third Copy,,,,,,,,Third Copy,3,,,,,,,,,
+duplicate3,Third Copy,,,,,,,,Third Copy,3,,,,,,,,,
+duplicate1,,,,,,,,,,,Fourth Copy,,,,,,,,
+duplicate2,,,,,,,,,,,Fourth Copy,,,,,,,,
+duplicate3,,,,,,,,,,,Fourth Copy,,,,,,,,
